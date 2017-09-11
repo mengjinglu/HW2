@@ -1,0 +1,2 @@
+For the first one, the value of x is evaluated before being turned into binary, and second one just turns the value x 
+ into binary string, and second line assigns x to the next shift of i.
